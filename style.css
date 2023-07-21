@@ -1,0 +1,16 @@
+body
+{
+    color: rgb(29, 35, 58);
+    font-family: cursive;
+    background-size: cover;
+    background-position: center;
+}
+
+h3
+{
+    background-color: rgb(81, 157, 121);
+    line-height: 2;
+    margin: 10px;
+    width: 250px;
+    border-radius: 10px;
+}
